@@ -19,3 +19,9 @@ hold on; grid on;
 plot(t,y)
 xlabel('time [s]');
 ylabel('sin(x)')
+
+figure(2)
+hold on; grid on;
+plot(t,cos(t))
+xlabel('time [s]');
+ylabel('cos(x)')
