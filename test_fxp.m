@@ -12,3 +12,8 @@ pi_f = fi(pi,s,BitW,n);
 pi_f
 
 
+% in hex format
+pi_f_hex = pi_f.hex
+
+% in bin format
+pi_f_bin = pi_f.bin
