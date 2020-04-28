@@ -10,3 +10,5 @@ c = a.*b;
 d = a+b;
 e = a-b;
 
+a_m = mean(a)
+a_v = var(a)
