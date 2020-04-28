@@ -7,4 +7,6 @@ N = 100;
 a = randn(N,1)
 b = randn(N,1)
 c = a.*b;
-c = a+b;
+d = a+b;
+e = a-b;
+
