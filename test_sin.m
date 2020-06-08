@@ -26,5 +26,11 @@ plot(t,cos(t))
 xlabel('time [s]');
 ylabel('cos(x)')
 
+figure(3)
+hold on; grid on;
+plot(t,2*cos(t))
+xlabel('time [s]');
+ylabel('2*cos(x)')
+
 
 % debug part for the branch
