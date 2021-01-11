@@ -12,3 +12,6 @@ v_a = var(a)
 b = rand(N,1) + sqrt(-1)*rand(N,1);
 m_b = mean(b)
 v_b = var(b) 
+
+% third variable
+c = sqrt(1/2)*randn(N,1);
